@@ -1,0 +1,1 @@
+cmd_/home/xu/srckern/mouse/synaptics_i2c.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-3-common/scripts/module-common.lds --build-id  -o /home/xu/srckern/mouse/synaptics_i2c.ko /home/xu/srckern/mouse/synaptics_i2c.o /home/xu/srckern/mouse/synaptics_i2c.mod.o

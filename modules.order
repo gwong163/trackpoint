@@ -1,0 +1,10 @@
+kernel//home/xu/srckern/mouse/appletouch.ko
+kernel//home/xu/srckern/mouse/bcm5974.ko
+kernel//home/xu/srckern/mouse/inport.ko
+kernel//home/xu/srckern/mouse/logibm.ko
+kernel//home/xu/srckern/mouse/pc110pad.ko
+kernel//home/xu/srckern/mouse/psmouse.ko
+kernel//home/xu/srckern/mouse/sermouse.ko
+kernel//home/xu/srckern/mouse/synaptics_i2c.ko
+kernel//home/xu/srckern/mouse/synaptics_usb.ko
+kernel//home/xu/srckern/mouse/vsxxxaa.ko
