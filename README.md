@@ -1,4 +1,0 @@
-trackpoint
-==========
-
-thinkpad trackpoint driver

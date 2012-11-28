@@ -1,1 +1,0 @@
-cmd_/home/xu/srckern/mouse/psmouse.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-3-common/scripts/module-common.lds --build-id  -o /home/xu/srckern/mouse/psmouse.ko /home/xu/srckern/mouse/psmouse.o /home/xu/srckern/mouse/psmouse.mod.o
